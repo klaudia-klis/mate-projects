@@ -1,2 +1,2 @@
-# mate-projects
-Matę Academy projects / Full-stack developer course
+  - [Preview](https://klaudia-klis.github.io/mate-projects/)
+  - [Pull Request](https://github.com/klaudia-klis/mate-projects/pull/1/files)
